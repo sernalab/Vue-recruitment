@@ -1,0 +1,82 @@
+/* --------------------------
+ * APPLICANTS THUMBNAILS 
+ * -------------------------- */
+
+ol,
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.scroll {
+    overflow-y: scroll;
+    margin-left: 25%;
+    margin-top: 40px;
+}
+
+.thumbnail {
+    background-color: #f4f4f4;
+    border: 2px solid #1c2027;
+    height: 350px;
+    margin-right: 20px;
+    padding: 0;
+    width: 240px;
+}
+
+.thumbnails-box {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.header img {
+    border-radius: 80px;
+    border: 7px solid #d8dbdb;
+    height: 120px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    width: 120px;
+}
+
+.header a {
+    color: #444444;
+    text-decoration: none;
+}
+
+.students-header {
+    color: #444444;
+    font-size: 30px;
+}
+
+.space {
+    border-bottom: 2px solid #1c2027;
+    margin-left: 16%;
+    width: 70%;
+}
+
+.description-text {
+    color: #444444;
+    font-size: 16px;
+    padding: 20px 10px 10px 10px;
+}
+
+.description-text p {
+    margin-bottom: 0;
+}
+
+.github-repo {
+    margin-bottom: 10px;
+}
+
+.github-repo a,
+.heroku a {
+    color: #999999;
+}
+
+.github-repo i,
+.heroku i {
+    color: #999999;
+}
+
+

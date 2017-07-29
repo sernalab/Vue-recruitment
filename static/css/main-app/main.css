@@ -1,0 +1,35 @@
+/* --------------------------
+ *  custom CSS
+ * -------------------------- */
+
+
+/*---------------------------
+ * SEE ALL PROJECTS LINK & MORE APPLICANTS
+ ---------------------------*/
+
+.main-buttons {
+    font-size: 18px;
+    margin-top: 27px;
+}
+
+.main-buttons a {
+    color: #555555;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.main-buttons a:hover {
+    color: #ef5285;
+    transition: all 0.2s ease-out;
+}
+
+.main-buttons i {
+    margin-right: 10px;
+}
+
+/*---------------------------
+ * CUSTOM
+ ---------------------------*/
+
+#fullpage {
+    margin-top: 250px; 
+}
